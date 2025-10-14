@@ -78,6 +78,7 @@ function setup() {
   console.log(`target number: ${targetNumber}`);
 
   // Reset number of attempts
+
   // attempts moved here
 
   attempts = 0;
